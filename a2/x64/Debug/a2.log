@@ -1,3 +1,2 @@
 ﻿  Main.cpp
-D:\Code\C++\a2\Main.cpp(29): warning C4172: возвращение адреса локальной или временной переменной : a
   a2.vcxproj -> D:\Code\C++\a2\x64\Debug\a2.exe

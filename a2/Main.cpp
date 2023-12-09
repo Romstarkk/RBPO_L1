@@ -39,7 +39,7 @@ int main()
     double salary=-1;
     
     unsigned short weight=-1;
-    int* ptr = fu();
+    //int* ptr = fu();
     while (true) {
         system("cls");
         //std::cout << *ptr;
